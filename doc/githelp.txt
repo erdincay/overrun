@@ -1,3 +1,11 @@
+// BASICS
+ 
+// check-in commands
+
 git add --all
 git commit --all
 git push
+
+// basic 
+
+git pull 
