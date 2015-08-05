@@ -1,0 +1,1 @@
+Ziel ist es eigentlich ein Outlook/OneNote-kombiniertes-Pendant für Linux-basierte Systeme zu erstellen.
